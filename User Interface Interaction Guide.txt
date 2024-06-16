@@ -1,0 +1,44 @@
+CineMatch Movie Recommendation System:
+
+
+User Interface Interaction Guides:
+
+
+Adding a Movie:
+
+1. Title: Enter the movie title in the provided text field.
+2. Genre: Choose the genre from the dropdown menu (Action, Drama, Horror, Comedy, Romance, Sci-Fi).
+3. Industry: Select the industry from the dropdown menu (Hollywood, Indian, Anime, Indi, Korean).
+4. Celebrity: Select if the movie features a celebrity (Yes or No).
+5. Platform: Choose the platform from the dropdown menu (Netflix, Prime, Other).
+6. Platform Rent (INR): Enter the rental cost in INR in the text field.
+7. Total Time (minutes): Enter the total runtime in minutes.
+8. Watch Time (minutes): Enter the watched time in minutes.
+9. Click "Add Movie" to add the movie with entered details to the system.
+
+
+Searching for Movies:
+
+Search by Title:
+1. Enter the movie title in the "Title" field.
+2. Click "Search by Title" to find matching movies.
+3. Results will appear in a popup window.
+
+
+Search by Genre:
+1. Select a genre from the dropdown menu.
+2. Click "Search by Genre" to find movies in the selected genre.
+3. Results will appear in a popup window.
+
+
+Recommendations:
+
+1. Click "Recommend Movies" to get top movie recommendations.
+2. Top movies will appear in a popup window.
+
+
+Deleting a Movie:
+
+1. Enter the movie title in the "Title" field.
+2. Click "Delete Movie" to remove the movie from the system.
+3. Confirmation message will appear if successful.
